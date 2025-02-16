@@ -1,0 +1,51 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wraper{
+    margin: auto;
+    width: 1850px;
+}
+body {
+    background-color: pink;
+}
+.title{
+    font-family:monospace;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px 0px;
+    font-size: 25px;
+    color: white;
+}
+
+.f3{
+    padding-top: 400px;
+}
+.f4{
+    margin-left: 1370px;
+}
+.block {
+    display: block;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    margin-left: 650px;
+    background-color:deeppink;
+    font-size:40px;
+}
+.yes{
+    font-size:35px;
+    margin-right:200px;
+    margin-top:40px;
+    background-color:limegreen;
+}
+.no{
+    font-size:40px;
+    background-color:red;
+}
+
+
